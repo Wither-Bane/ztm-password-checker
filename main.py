@@ -6,3 +6,10 @@ password_length = len(password)
 password_stars = '*' * password_length #stars representing each character in pass
 
 print(f'{username}, your password {password_stars} is {password_length} long')
+
+
+#Corrections:
+  #None. Well Done!
+
+#Notes
+  #you can write python expressions in the substitutions within a formatted string
